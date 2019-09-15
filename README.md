@@ -22,26 +22,8 @@ Extension for css Triggers **css triggers**
 
 # First animation
 
-```css
-.box{
-    width: 500px;
-    height: 300px;
-    background: rgba(255, 25, 25, 0.651);
-
-    /*First animation*/
-    animation: color 2s infinite alternate;
-}
-
-@keyframes color{
-    to{
-        /*Va del rojo al azul, pero si lo pruebas, podras ver que muestra colores intermedios, esta parte debemos entenderla, saber si usa la gpu del equipo, si colocas el estado inicial, y final, y los intermedios que no definas, el navegador lo hara por default*/
-        background: rgb(25, 151, 255);
-    }
-}
-```
-
 ![first-animation](https://github.com/g4brieljs/Course-css-animation/blob/master/01-First-animation/first-animation.gif)
 
 # First css triggers
 
-![first-triggers](https://github.com/g4brieljs/Course-css-animation/blob/master/01-First-animation/first.gif)
+![first-triggers](https://github.com/g4brieljs/Course-css-animation/blob/master/02-First-css-triggers/first.gif)
