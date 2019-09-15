@@ -40,10 +40,8 @@ Extension for css Triggers **css triggers**
 }
 ```
 
-![first-animation](https://github.com/g4brieljs/Course-css-animation/blob/master/01-First-animation/first-animation.webm)
-
 ![first-animation](https://github.com/g4brieljs/Course-css-animation/blob/master/01-First-animation/first-animation.gif)
 
 # First css triggers
 
-
+![first-triggers](https://github.com/g4brieljs/Course-css-animation/blob/master/01-First-animation/first.gif)
