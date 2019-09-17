@@ -26,4 +26,10 @@ Extension for css Triggers **css triggers**
 
 # First css triggers
 
+Como pueden ver el primero usa las propiedades height y width, esto carga mas procesos en el navegador.
+
+El segundo utiliza **Stransform** con un **scale** y un will `change: transform;`, y el no modifica el layout, esto permite mejor perfomance.
+
 ![first-triggers](https://github.com/g4brieljs/Course-css-animation/blob/master/02-First-css-triggers/first.gif)
+
+# Property animables y no animables
