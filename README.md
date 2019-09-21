@@ -33,3 +33,9 @@ El segundo utiliza **Stransform** con un **scale** y un will `change: transform;
 ![first-triggers](https://github.com/g4brieljs/Course-css-animation/blob/master/02-First-css-triggers/first.gif)
 
 # Property animables y no animables
+
+
+# First project animation 
+
+![first-project](https://github.com/g4brieljs/Course-css-animation/blob/master/03-First-Project/quickcards.gif)
+
